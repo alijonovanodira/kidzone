@@ -1,0 +1,804 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    font-size: 25px;
+}
+ul{
+    float: right;
+    
+}
+ul li a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 25px;
+    color: black;
+    margin-top: 10px;
+}
+ul li{
+    float: left;
+    list-style-type: none;
+}
+.container{
+    max-width: 1100px;
+    margin: auto;
+}
+nav{
+    width: 100%;
+    height: 80px;
+    border-bottom: 2px solid black;
+}
+.logo{
+    width: 120px;
+    height: 60px;
+    margin-top: 9px;
+    margin-left: 80px;
+}
+html,body{
+    font-family: 'Calibri';
+    font-size: 18px;
+}
+.text1{
+    text-align: center;
+    margin-top: 20px;
+}
+.home-page{
+    width: 100%;
+    height: 500px;
+}
+.search{
+    width: 25px;
+    height: 25px;
+    margin-top: 30px;
+    background-color: chocolate;
+    color: white;
+    float: right;
+    padding-top: 4px;
+    padding-left: 5px;
+    border-radius: 3px;
+}
+.text2{
+    color: orange;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 50px;
+}
+.text3{
+    text-align: center;
+    font-size: 15px;
+}
+#icons{
+    background-color: aqua;
+    width: 50px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    margin-top: -9px;
+
+}
+.icons{
+    width: 70px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    margin-left: 50px;
+    border: 2px solid aqua;
+    border-style: dotted;
+}
+#icon-2{
+    background-color: yellowgreen;
+    width: 50px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    margin-top: -9px;
+
+}
+.icon-2{
+    width: 70px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    margin-left: 50px;
+    border: 2px solid yellowgreen ;
+    border-style: dotted;
+}
+#icon-3{
+    background-color: orange;
+    width: 50px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    margin-top: -9px;
+
+}
+.icon-3{
+    width: 70px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    margin-left: 50px;
+    border: 2px solid orange ;
+    border-style: dotted;
+}
+#icon-4{
+    background-color: blue;
+    width: 50px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    margin-top: -9px;
+
+}
+.icon-4{
+    width: 70px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    margin-left: 50px;
+    border: 2px solid blue ;
+    border-style: dotted;
+}
+.professional{
+    width: 25%;
+    height: 100px;
+    float: left;
+    margin-top: 100px;
+}
+.fullfiy{
+    width: 25%;
+    height: 100px;
+    float: right;
+    margin-top: 100px;
+}
+.funny{
+    width: 25%;
+    height: 120px;
+    float: right;
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+.fully{
+    width: 25%;
+    height: 100px;
+    float: right;
+    margin-top: 100px;
+}
+.aboutus{
+    width: 100%;
+    height: 600px;
+    background-color: aqua;
+    margin-top: 400px;
+}
+.pic{
+    width: 400px;
+    height: 450px;
+    margin-top: 9px;
+}
+.aboutt{
+    width: 150px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    border: 2px solid white;
+    border-style: dotted;
+    border-radius: 50%;
+    padding-top: 20px;
+    float: left;
+    display: block;
+    margin-left: 400px;
+}
+.aboutt:hover{
+    background-color: white;
+    color: orange;
+    cursor: pointer;
+}
+/* .our:hover{
+    background: none;
+    border: 1px solid white;
+    color: white;
+} */
+.A{
+    color: white;
+    text-align: center;
+}
+.our{
+    width: 160px;
+    height: 45px;
+    color:orange;
+    text-align: center;
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 50%;
+    float: right;
+    margin-right: 370px;
+
+    padding-top: 20px;
+    
+}
+.picc{
+    width: 40%;
+    height: 300px;
+
+}
+.text22{
+    width: 60%;
+    height: 300px;
+    float: right;
+    color: white;
+    margin-top: -140px;
+    padding-top: 10px;
+    font-size: 21px;
+}
+.text-teacher{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.kids-img img{
+    margin-left: 140px;
+    width: 800px;
+    height: 450px;
+}
+.teachers{
+    width: 100%;
+    height: 700px;
+}
+.img-1{
+    width: 50%;
+    height: 300px;
+    float: left;
+}
+.pic1{
+    width: 300px;
+    height: 200px;
+    margin-left: 100px;
+    border-radius: 5px;
+}
+.img-2{
+    width: 50%;
+    height: 300px;
+
+    float: right;
+
+}
+.teacher{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.text-our{
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+.text-img{
+    margin-top: 10px;
+    margin-left: 100px;
+    width: 300px;
+    height:50px;
+}
+.img-3{
+    width: 50%;
+    height: 300px;
+    float: left;
+
+}
+.img-4{
+    width: 50%;
+    height: 300px;
+    float: right;
+}
+.news{
+    width: 100%;
+    height: 550px;
+    background-color: chartreuse;
+}
+.text-imgg{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.news-img{
+    width: 48%;
+    height: 200px;
+    background-color: white;
+    border-radius: 6px;
+    float: left;
+    margin-bottom: 20px;
+}
+.news-img2{
+    width: 48%;
+    height: 200px;
+    background-color: white;
+    border-radius: 6px;
+    float: right;
+    margin-bottom: 20px;
+}
+.secret{
+    color: whitesmoke;
+}
+
+.pic2{
+    width: 50%;
+    height: 180px;
+    border-radius: 6px;
+    margin-top: 9px;
+    margin-left: 9px;
+    float: left;
+}
+.grey, #icon1{
+    color: grey;
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.text-news{
+    margin-top: 9px;
+    margin-left: 5px;
+    padding-top: 6px;
+}
+.pic3{
+    width: 250px;
+    height: 180px;
+    border-radius: 6px;
+}
+.text-right{
+    float: right;
+    margin-right: 10px;
+}
+.icon2{
+    width: 100%;
+    height: 120px;
+}
+.ikonka1{
+    width: 120px;
+    height: 120px;
+    border-style: dotted;
+    padding-left: 7px;
+    border-color: blue;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-top: 15px;
+}
+.text-1{
+    width: 120px;
+    height: 100px;
+    position: relative;
+    bottom: 100px;
+    text-align: center;
+}
+#iii{
+    color: whitesmoke;
+}
+#ii{
+    color: whitesmoke;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.ikonka2{
+    width: 120px;
+    height: 120px;
+    border-style: dotted;
+    border-color: chartreuse;
+    border-radius: 5px;
+    padding-top: 15px;
+    margin-left: 300px;
+    margin-top: -240px;
+}
+.text-2{
+    width: 120px;
+    height: 100px;
+    position: relative;
+    bottom: 100px;
+    left: 300px;
+    text-align: center;
+}
+.ikonka3{
+    width: 120px;
+    height: 120px;
+    border-style: dotted;
+    border-radius: 5px;
+    border-color: orange;
+    padding-top: 15px;
+    margin-left: 600px;
+    margin-top: -240px;
+}
+.text-3{
+    width: 120px;
+    height: 100px;
+    position: relative;
+    bottom: 100px;
+    left: 600px;
+    text-align: center;
+}
+.ikonka4{
+    width: 120px;
+    height: 120px;
+    border-style: dotted;
+    border-radius: 5px;
+    border-color: blue;
+    padding-top: 15px;
+    margin-left: 900px;
+    margin-top: -240px;
+}
+#i{
+    color: whitesmoke;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.text-4{
+    width: 120px;
+    height: 100px;
+    position: relative;
+    bottom: 100px;
+    left: 900px;
+    text-align: center;
+}
+.ourgallery{
+    width: 100%;
+    height: 450px;
+    background-color: whitesmoke;
+    margin-top: -30px;
+}
+.aa{
+    color: black;
+    margin-top: 10px;
+    text-align: center;
+}
+.ul{
+    margin-right: 300px;
+
+}
+.ul li .secret:hover{
+    width: 100px;
+    height: 20px;
+    color: orange;
+    cursor: pointer;
+}
+.ul li:hover{
+    color: black;
+    cursor: pointer;
+}
+.ul li{
+    margin-left: 70px;
+    color: grey;
+    text-align: center;
+}
+.pic-1{
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.img1{
+    width: 100%;
+    height: 150px;
+    margin-top: 20px;
+}
+.center{
+    text-align: center;
+    margin-top: 10px;    
+}
+.img2{
+    width: 100%;
+    height: 150px;
+    margin-top: 20px;
+}
+.contactus{
+    width: 100%;
+    height: 400px;
+    margin-top: 50px;
+}
+.text-contact{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.address{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: cadetblue;
+    color: white;
+    margin-top: 40px;
+}
+.phone{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: yellowgreen;
+    color: white;
+    margin-top: 40px;
+}
+.e-mail{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: orange;
+    color: white;
+    margin-top: 40px;
+}
+.text-left{
+    float: left;
+    margin-left: 100px;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.green{
+    color: green;
+}
+.right-text{
+    float: right;
+    display: block;
+    margin-right: 150px;
+
+}
+.texts{
+    width: 100%;
+    height: 30px;
+}
+#ic{
+    margin-left: 23px;
+    margin-top: 18px;
+}
+#ico{
+    margin-left: 10px;
+    margin-top: 13px;
+}
+.leftt{
+    width: 50%;
+    height: 300px;
+    float: left;
+}
+.adres{
+    width: 33%;
+    height: 300px;
+    float: left;
+
+}
+#text-contact2{
+    margin-left: 20px;
+}
+.text-kidzone{
+    text-align: center;
+    width: 100px;
+    height: 25px;
+    font-size: 10px;
+    margin-top: 20px;
+}
+.rightt{
+    width: 50%;
+    height: 300px;
+    float: right;
+}
+.photo-child{
+    width: 200px;
+    height: 300px;
+}
+.newsletter{
+    width: 100%;
+    height: 50px;
+    background-color: cadetblue;
+}
+.newsletter-text{
+    color: white;
+    font-size: 35px;
+    width: 30%;
+    height: 50px;
+}
+.input{
+    width: 30%;
+    height: 20px;
+    display: inline-block;
+}
+.subscribe{
+    width: 90px;
+    height: 30px;
+    background-color: orange;
+    color: white;
+    display: inline-block;
+    margin-top: -7px;
+    position: absolute;
+    left: 480px;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+.input2{
+    width: 300px;
+    height: 40px;
+    background-color: white;
+    border: none;
+    padding-left: 5px;
+    margin-top: -12px;
+    position: absolute;
+    border-radius: 5px;
+}
+.input2:focus{
+    outline: none;
+}
+.telephone{
+    width: 40%;
+    height: 30px;
+    float: right;
+    border-left: 2px solid white;
+
+}
+#ikonka{
+    color: white;
+    margin-left: 10px;
+}
+.number-kidzone{
+    color: white;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.about1{
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+.logo-kid{
+    width: 150px;
+    height: 90px;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.text-detail{
+    float: right;
+    margin-right: 50px;
+}
+.text-italic{
+    font-weight: 800;
+    margin-left: 70px;
+    font-size: 25px;
+    margin-top: 20px;
+
+}
+.text-about{
+    width: 200px;
+    height: 100px;
+}
+.tags{
+    width: 75%;
+    height: 400px;
+    float: right;
+}
+.tag{
+    width: 33%;
+    height: 400px;
+    float: left;
+
+    margin-top: 10px;
+}
+.box{
+    width: 50px;
+    height: 30px;
+    border: 2px solid black;
+    background: none;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.box-text{
+    margin-left: 8px;
+    margin-top: 2px;
+}
+.box1{
+    width: 60px;
+    height: 30px;
+    border: 2px solid black;
+    background: none;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.box1:hover, .box2:hover, .box:hover{
+    border: 2px solid orange;
+    cursor: pointer;
+    color: orange;
+}
+.box-text1{
+    margin-left: 4px;
+    margin-top: 2px;
+}
+.box2{
+    width: 80px;
+    height: 30px;
+    border: 2px solid black;
+    background: none;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.chiziq{
+    width: 250px;
+    border-style: dashed;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.img-left{
+    width: 40%;
+    height: 50px;
+    float: left;
+    margin-top: 20px;
+}
+.img-5{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+.text-right1{
+    width: 60%;
+    height: 50px;
+    float: right;
+    margin-top: 20px;
+    padding-top: 3px;
+}
+.img-left1{
+    width: 40%;
+    height: 50px;
+    float: left;
+    margin-top: 60px;
+}
+.text-right2{
+    width: 60%;
+    height: 50px;
+    float: right;
+    margin-top: 60px;
+    padding-top: 3px;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: whitesmoke;
+    color: black;
+}
+.last-page{
+    width: 100%;
+    height: 400px;
+}
+#iccon{
+    margin-left: 200px;
+    margin-top: 20px;
+    color: grey;
+}
+.kidzonee{
+    text-align: center;
+    margin-top: 20px;
+}
+#iccon:hover{
+    cursor: pointer;
+    color: orange;
+}
+.orange{
+    color: orange;
+}
